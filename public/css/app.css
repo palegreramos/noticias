@@ -1,0 +1,24 @@
+body {
+    background-color: azure;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    text-align: center;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+.credits {
+    font-size: small;
+}
+.contenido, ul {
+    text-align: justify;
+    border: 1px solid #008b8b80;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+ul {list-style-type: none;}
+main {
+    text-align: center;
+}
